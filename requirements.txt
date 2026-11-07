@@ -1,0 +1,7 @@
+# Libraries actually imported by the notebooks in digitaltwin_ml/
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
